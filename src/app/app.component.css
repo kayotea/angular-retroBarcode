@@ -1,0 +1,11 @@
+.block {width: 50px; height: 50px;}
+.antique {background-color: #FAEBD7;}
+.aqua {background-color: #00FFFF;}
+.aquamarine {background-color: #7FFFD4;}
+.coral {background-color: #FF7F50;}
+.cornflower {background-color: #6495ED}
+.crimson {background-color: #DC143C;}
+.lightcoral {background-color: #F08080;}
+.lightcyan {background-color: #E0FFFF;}
+.palegoldenrod {background-color: #EEE8AA;}
+p {display: inline-block;}
